@@ -1,3 +1,12 @@
-characters = {
-
+var characters = {
+  
+  characterA: {
+    typable: "a"
+    
+    
+    
+  } 
 }
+  
+  
+  
