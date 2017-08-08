@@ -1,1 +1,1 @@
-document.getElementById("test").innerHTML = characters
+document.getElementById("test").innerHTML = characters.characterLowerA.typable
