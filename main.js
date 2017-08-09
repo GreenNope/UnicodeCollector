@@ -1,1 +1,6 @@
-document.getElementById("test").innerHTML = characters.characterLowerA.typable
+
+
+function tick() {
+  
+  
+}
