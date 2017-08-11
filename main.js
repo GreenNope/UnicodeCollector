@@ -6,8 +6,6 @@ function tick() {
   bar.style.width = ink + "%"
 }
 
-while true do {
-  wait(1)
-  tick()
+
+setInterval(tick, 1000)
   
-}
