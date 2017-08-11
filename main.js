@@ -9,6 +9,7 @@ function tick() {
 }
 
 while 1=1 do {
+  wait(1)
   tick()
   
 }
