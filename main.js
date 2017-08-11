@@ -6,7 +6,7 @@ function tick() {
   bar.style.width = ink + "%"
 }
 
-while 1=1 do {
+while true do {
   wait(1)
   tick()
   
