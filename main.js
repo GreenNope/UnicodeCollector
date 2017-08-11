@@ -10,7 +10,7 @@ function tick() {
   }
 }
 
-document.getElementById("charBox").innerHTML = characters[1].visible
+document.getElementById("charBox").innerHTML = characters[0].visible
 
 
 setInterval(tick, 1000)
