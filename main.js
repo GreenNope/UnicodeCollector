@@ -8,7 +8,7 @@ function tick() {
   bar.style.width = width + "%"
 }
 
-while true do {
+while 1=1 do {
   tick()
   
 }
